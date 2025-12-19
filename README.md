@@ -1,4 +1,4 @@
-# 🎓 Thesis Project: Screen Time & Gaming Disorder Risk Analysis
+# 🎓 Explainable AI for Predicting Children’s Internet Gaming Disorder  
 
 ## Overview
 
@@ -273,3 +273,4 @@ IGD_Project/scripts/ml_prediction_demo.py                  → Appendix C
 ---
 
 **Everything is organized and ready! Good luck with your thesis! 🎓📚**
+
